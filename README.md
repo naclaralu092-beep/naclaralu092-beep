@@ -1,6 +1,6 @@
 # Seja muito bem-vindo(a) ao meu perfil! 👋
 
-Olá, eu sou a Ana Clara! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por tecnologia, dados e aprendizado contínuo. Atualmente, busco uma oportunidade de **estágio remoto** para aplicar e expandir meus conhecimentos em desenvolvimento e análise de dados.
+Olá, eu sou a **Ana Clara**! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por tecnologia, dados e aprendizado contínuo. Atualmente, busco uma oportunidade de **estágio remoto** para aplicar e expandir meus conhecimentos em desenvolvimento e análise de dados.
 
 ---
 
