@@ -36,3 +36,4 @@ Olá, eu sou a Ana Clara! Sou estudante de Análise e Desenvolvimento de Sistema
 Gostou do meu perfil? Sinta-se à vontade para explorar meus repositórios, abrir uma *issue* ou entrar em contato!
 
 [![LinkedIn](www.linkedin.com/in/ana-clara-coelho-90814a3ba)))
+📧 **E-mail:** [naclaralu092@gmail.com](naclaralu092@gmail.com)
